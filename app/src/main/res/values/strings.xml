@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PokeMonster</string>
+    <string name="text_search_your_pokemon">Cari Pokemonmu...</string>
+    <string name="text_attack">Attack</string>
+    <string name="text_defense">Defense</string>
+    <string name="text_speed">Speed</string>
+    <string name="text_pokemonster">PokeMonster</string>
+    <string name="text_go_to_back">go to back</string>
+    <string name="text_profile_photo">profile photo</string>
+</resources>
